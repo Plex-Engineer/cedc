@@ -46,8 +46,6 @@ nav {
 
   img {
     object-position: center;
-    width: 100%;
-    height: fit-content;
   }
 }
 
@@ -100,7 +98,12 @@ ol {
     padding: 0 2rem;
     padding-top: 10px;
   }
-
+  .hero {
+    img {
+      width: 100%;
+      height: fit-content;
+    }
+  }
   .container {
     padding: 2rem;
   }
