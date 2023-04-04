@@ -97,8 +97,7 @@ ol {
   }
   .hero img {
     width: 100%;
-    height: -moz-fit-content;
-    height: fit-content;
+    height: 100%;
   }
   .container {
     padding: 2rem;
