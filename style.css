@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass:wght@300;500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: 300;
+  font-family: "Overpass", Courier, monospace;
+  -webkit-font-smoothing: antialiased;
+}
+
+.note .title {
+  font-family: "Overpass";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 33px;
+  letter-spacing: 0.02em;
+}
+.note .desc {
+  font-weight: 300;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+}/*# sourceMappingURL=style.css.map */
